@@ -14,76 +14,54 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 - Windows 10</b> (21H2)
 
-<h2>Ticket Lifecycle Stages</h2>
 
-- Intake
-- Assignment and Communication
-- Working the Issue
-- Resolution
+As an end-user, create the following ticket
+entire mobile/online banking system is down
 
-<h2>Lifecycle Stages</h2>
+As a Help Desk Agent (john), observe the ticket’s properties
+	Priority
+	Department
+	SLA
+	Assigned To
 
-Configure Roles (for grouping permissions)<br />
-Admin Panel -> Agents -> Roles<br />
-- Supreme Admin
+Set Properties to the ticket
+Sev-A (1 hour, 24/7)
+Online Banking Department
 
-![image](https://github.com/user-attachments/assets/70bfd30f-40e3-4a33-b1b2-f668249f7b66)
+Attempt to observe the ticket again as “john”. Can you view or change?
 
-
-Configure Departments (Ticket Visibility, Help Desk vs SysAdmins, vs Networking)<br />
-Admin Panel -> Agents -> Departments<br />
-- SysAdmins
-
-![image](https://github.com/user-attachments/assets/d92f20bc-2342-415d-b072-73579e9d2086)
+Work the ticket to completion as jane
 
 
-Configure Teams<br />
-Admin Panel -> Agents -> Teams (Pull Agents from different Departments)<br />
-- Online Banking
 
-![image](https://github.com/user-attachments/assets/f0ae051f-8cde-4561-bf0d-185ffe22bb12)
+As an end-user, create the following ticket
+accounting department needs adobe upgrade, broken
 
+As a Help Desk Agent (john), observe the ticket’s properties
+	Priority
+	Department
+	SLA
+	Assigned To
 
-Allow anyone to create tickets<br />
-Admin Panel -> Settings -> User Settings (UNCHECK: unregistered users can create tickets)<br />
-- Registration Required: Require registration and login to create tickets 
+Set Properties to the ticket
+Sev-B (4 hours, 24/7)
+Support
 
-![image](https://github.com/user-attachments/assets/9e0108e9-d18b-4cd7-bec8-8ab979ce9b7b)
-
-
-Configure Agents (workers)<br />
-Admin Panel -> Agents -> Add New<br />
-- Jane (Dept: SysAdmins)
-- John (Dept: Support)
-
-![image](https://github.com/user-attachments/assets/6da590c5-3a46-47d8-b14f-e6ae5175d9d2)
+Work the ticket to completion as john
 
 
-Configure Users (customers)<br />
-Agent Panel -> Users -> Add New<br />
-- Karen
-- Ken
 
-![image](https://github.com/user-attachments/assets/de38f8d9-efaf-41b4-960a-57474e9405f6)
+As an end-user, create the following ticket
+CFO’s laptop will no longer turn on
 
+As a Help Desk Agent (john), observe the ticket’s properties
+	Priority
+	Department
+	SLA
+	Assigned To
 
-Configure SLA<br />
-Admin Panel -> Manage -> SLA<br />
-- Sev-A (Grace Period: 1 hour, Schedule: 24/7)
-- Sev-B (Grace Period: 4 hours, Schedule: 24/7)
-- Sev-C (Grace Period: 8 hours, Business Hours)
+Set Properties to the ticket
+Sev-B (4 hours, 24/7)
+Support
 
-![image](https://github.com/user-attachments/assets/563f43e4-5619-4894-8045-9d0f855d4996)
-
-
-Configure Help Topics (For when users create a ticket)<br />
-Admin Panel -> Manage -> Help Topics<br />
-- Business Critical Outage
-- Personal Computer Issues
-- Equipment Request
-- Password Reset
-- Other
-
-![image](https://github.com/user-attachments/assets/aa985b4f-c5d2-4127-ae0d-e33150ca1611)
-
-Now on to working on Tickets and their Ticket Lifecycle
+Work the ticket to completion as john
