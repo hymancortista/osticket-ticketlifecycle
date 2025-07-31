@@ -21,7 +21,8 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - Working the Issue
 - Resolution
 
-<h2>Ticket Examples/h2>
+<h2>Ticket Examples</h2>
+
 
 As an end-user, create the following ticket
 - entire mobile/online banking system is down
