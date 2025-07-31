@@ -16,52 +16,64 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 
 As an end-user, create the following ticket
-entire mobile/online banking system is down
+- entire mobile/online banking system is down
+
+<img width="750" height="879" alt="image" src="https://github.com/user-attachments/assets/40e7aedd-beeb-4112-bbb0-a67ca5d57aff" />
+
 
 As a Help Desk Agent (john), observe the ticket’s properties
-	Priority
-	Department
-	SLA
-	Assigned To
+- Priority
+- Department
+- SLA
+- Assigned To
+
+<img width="392" height="409" alt="image" src="https://github.com/user-attachments/assets/2e68bd31-c2ed-4782-8fa8-622ac5c536ac" />
+
 
 Set Properties to the ticket
-Sev-A (1 hour, 24/7)
-Online Banking Department
-
-Attempt to observe the ticket again as “john”. Can you view or change?
-
-Work the ticket to completion as jane
+- Sev-A (1 hour, 24/7)
+- Online Banking Department
 
 
+This ticket can now be worked to completion by an Agent.
+
+<br/>
 
 As an end-user, create the following ticket
 accounting department needs adobe upgrade, broken
 
+<img width="743" height="860" alt="image" src="https://github.com/user-attachments/assets/3d92a2c6-1ede-4aab-990e-827dcae962b4" />
+
+
 As a Help Desk Agent (john), observe the ticket’s properties
-	Priority
-	Department
-	SLA
-	Assigned To
+- Priority
+- Department
+- SLA
+- Assigned To
 
 Set Properties to the ticket
-Sev-B (4 hours, 24/7)
-Support
+- Sev-B (4 hours, 24/7)
+- Support
 
-Work the ticket to completion as john
+This ticket can now be worked to completion by an Agent.
 
 
-
+<br/>
 As an end-user, create the following ticket
-CFO’s laptop will no longer turn on
+- CFO’s laptop will no longer turn on
+
+<img width="746" height="860" alt="image" src="https://github.com/user-attachments/assets/05869b75-dde3-4716-bab3-21797fb73021" />
+
 
 As a Help Desk Agent (john), observe the ticket’s properties
-	Priority
-	Department
-	SLA
-	Assigned To
+- Priority
+- Department
+- SLA
+- Assigned To
 
 Set Properties to the ticket
-Sev-B (4 hours, 24/7)
-Support
+- Sev-B (4 hours, 24/7)
+- Support
 
-Work the ticket to completion as john
+
+This ticket can now be worked to completion by an Agent.
